@@ -1,0 +1,16 @@
+A
+IBM
+1050
+128
+Pentium2
+200
+D
+a
+Dell
+1500
+128
+Pentium3
+500
+d
+?
+Q

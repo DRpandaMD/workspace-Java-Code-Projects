@@ -1,0 +1,70 @@
+Choice		Action
+------		------
+A		Add Computer
+D		Display Computer
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Computer
+D		Display Computer
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?

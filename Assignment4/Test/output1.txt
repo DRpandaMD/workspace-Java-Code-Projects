@@ -1,0 +1,22 @@
+Choice		Action
+------		------
+A		Add Computer
+D		Display Computer
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the computer information:
+Enter a brand name:
+Enter a computer price:
+Enter a computer memory:
+Enter a cpu type:
+Enter a cpu speed:
+What action would you like to perform?
+
+BrandName:	IBM
+CPU:		Pentium2,200HZ
+Memory:		128M
+Price:		$1,050.00
+
+What action would you like to perform?

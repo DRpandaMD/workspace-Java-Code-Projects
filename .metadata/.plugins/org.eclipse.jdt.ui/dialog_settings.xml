@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="/Users/michaelzarate/Documents/workspace/CSE360HMW5/javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/bin/javadoc" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="/Users/michaelzarate/Documents/workspace/CSE360HMW5/doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="Assignment9">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment9/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment9/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment7">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment7/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment7/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment8">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment8/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment8/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="JTabbedPaneAppletDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/JTabbedPaneAppletDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/JTabbedPaneAppletDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment5">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment5/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment5/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment6">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment6/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment6/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CSE_230_HMW2">
+				<item value="/Users/michaelzarate/Documents/workspace/CSE_230_HMW2/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/CSE_230_HMW2/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment4">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment4/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment4/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Recursion">
+				<item value="/Users/michaelzarate/Documents/workspace/Recursion/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Recursion/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="ClassExample_Courses">
+				<item value="/Users/michaelzarate/Documents/workspace/ClassExample_Courses/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/ClassExample_Courses/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="ConversionTools">
+				<item value="/Users/michaelzarate/Documents/workspace/ConversionTools/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/ConversionTools/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MouseEventDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/MouseEventDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/MouseEventDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HelloWorld">
+				<item value="/Users/michaelzarate/Documents/workspace/HelloWorld/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/HelloWorld/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="JSplitPaneDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/JSplitPaneDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/JSplitPaneDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TestDanielle">
+				<item value="/Users/michaelzarate/Documents/workspace/TestDanielle/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/TestDanielle/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="KeyEventDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/KeyEventDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/KeyEventDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CSE360HMW5">
+				<item value="/Users/michaelzarate/Documents/workspace/CSE360HMW5/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/CSE360HMW5/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Shapes">
+				<item value="/Users/michaelzarate/Documents/workspace/Shapes/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Shapes/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Books">
+				<item value="/Users/michaelzarate/Documents/workspace/Books/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Books/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment10">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment10/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment10/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Assignment11">
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment11/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/Assignment11/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="JSplitPaneVerticalDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/JSplitPaneVerticalDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/JSplitPaneVerticalDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="NestedPanelDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/NestedPanelDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/NestedPanelDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MouseMotionEventDemo">
+				<item value="/Users/michaelzarate/Documents/workspace/MouseMotionEventDemo/javadoc.xml" key="antpath"/>
+				<item value="/Users/michaelzarate/Documents/workspace/MouseMotionEventDemo/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1409982162323&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="1" key="rootMode"/>
+		<item value="false" key="linkWithEditor"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="-32" key="DIALOG_X_ORIGIN"/>
+			<item value="0" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="false" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="3" key="pageIndex"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="600" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="534" key="DIALOG_HEIGHT"/>
+		<item value="420" key="DIALOG_X_ORIGIN"/>
+		<item value="62" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>
